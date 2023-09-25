@@ -6,7 +6,7 @@
     <h1>About Me</h1>
     <p>I am an avid golfer and tech enthusiast. I have experience in basic-level programming courses and projects. <br>I also have a passion for finance, I started with a personal investment account via TD Ameritrade. <br>Through this account, and painstaking amounts of trial and error, I have learned about investing and more about the economy. <br>I am curious to learn more about finance and more about the world of investing, such as how hedge funds and investment banking work. <br>Additionally, I am curious to get knowledge of what jobs and careers exist in the realm of finance as well as ways one can diversify and grow in the finance world.
     </p>
-    <img src="https://mail.google.com/mail/u/0?ui=2&ik=5f8f1c09c2&attid=0.1&permmsgid=msg-a:r5405045147895131600&th=18ac97697a4807f4&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9fDRi7SvUIDu5Nz6wrOX0NZFESXA5Gg5w7tQeicV6VGMBx0kDV_Y8aFAwbtHi3vUcH96xom0k8aialH6h7ZK8UF8S86rnUquHD53qHgapTEF-9N1vnN3FY5Q4&disp=emb&realattid=18ac97688f5ff38850d1" alt="January 17, 2023 ABCUSD School District Office" height="800" width="600">
+    <img src="[https://mail.google.com/mail/u/0?ui=2&ik=5f8f1c09c2&attid=0.1&permmsgid=msg-a:r5405045147895131600&th=18ac97697a4807f4&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9fDRi7SvUIDu5Nz6wrOX0NZFESXA5Gg5w7tQeicV6VGMBx0kDV_Y8aFAwbtHi3vUcH96xom0k8aialH6h7ZK8UF8S86rnUquHD53qHgapTEF-9N1vnN3FY5Q4&disp=emb&realattid=18ac97688f5ff38850d1](https://github.com/Vedansh-Sinha01/Website/blob/main/Vedansh.png?raw=true)" alt="January 17, 2023 ABCUSD School District Office" height="800" width="600">
     <h2>Languages</h2>
     <ul>
         <li>Fluent in English</li>
